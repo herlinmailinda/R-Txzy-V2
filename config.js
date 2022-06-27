@@ -1,10 +1,10 @@
 // Thanks For Allah
-// AlyaaXzy
+// Dandi
 // BOTIAM
 
 
 let fs = require('fs')
-global.owner = ['6285880473884', '6285882913254','6285882912154', '6285880473884', '6285880473884'] // Letakan nomor kamu disini
+global.owner = ['6283178780817', '6285882913254','6285882912154', '6285880473884', '6285880473884',6283178780817'] // letakan no mu di sini
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
